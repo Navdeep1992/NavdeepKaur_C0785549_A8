@@ -9,6 +9,7 @@ public class Temperature {
     double[] temperature = new double[n];
     double[] speed = new double[n];
 
+    //THis is comment
     public static void main(String[] args) {
         Temperature tem = new Temperature();
         for (int i = 0; i< Temperature.n; i++) {
